@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #FAFAFA;
+}
+canvas {
+  display: block;
+}
+
+.success{
+  font-family: 'Noto Sans', sans-serif;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+}
